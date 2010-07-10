@@ -1,0 +1,3 @@
+A reimplementation of posix grep in Rust
+(http://wiki.github.com/graydon/rust/).  Intended to try out the
+language.
